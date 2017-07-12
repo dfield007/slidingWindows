@@ -1,3 +1,5 @@
 ### Sliding window genome scan (SlidingWindows.py, SlidingWindows_v4.py)
 
-A script for sliding window genome scan for diversity (pi_w, pi_T) and divergence (Fst, Dxy, Da) statistics for pooled whole genome data. Some examples below, for more details see *SlidingWindows_readme.txt*
+What does this script do?
+
+This script calculates various diversity and differentiation statistics for individual or pooled sequence data for two or more populations. Two types of output are generated: (i) individual site statistics, (ii) sliding window averages of the same statistics (with adjustable overlaps). Different data manipulations with regards to data quality can be set by the user including, minimum and maximum depth and the minimum number of populations with required depth range for site inclusion. For more details see *SlidingWindows_readme.txt*
