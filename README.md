@@ -30,9 +30,9 @@ Assuming you have the script and the required input files in your PATH directory
 
 where the system arguments for the script include (corresponding values in example):
 
-1.	list of scaffolds to analyse (scaffold_RosSample.txt).
-2.	file with population names and sample size (popDetails_RosSample.txt). 
-3.	output file name for sliding window statistics (LG6_RosSample.txt).
+1.	list of scaffolds to analyse (scaffoldList_example.txt).
+2.	file with population names and sample size (popDetails_example.txt). 
+3.	output file name for sliding window statistics (example_out.txt).
 4.	the minimum depth to include a site (15).
 5.	the maximum depth to include a site (200).
 6.	minimum copies for an allele call, i.e. > 1, no singletons (2).
