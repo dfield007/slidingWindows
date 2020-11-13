@@ -8,7 +8,7 @@ This script calculates various diversity and differentiation statistics for indi
 
 ### How to install
 
-Simply place the script and all required input files in a common directory. Python modules required include: re, sys, getopt, itertools, os, math.
+Written for Python 2.7. Simply place the script and all required input files in a common directory. Python modules required include: re, sys, getopt, itertools, os, math.
 
 Ideally place this in a directory included in your PATH. See online how to edit your PATH 
 
